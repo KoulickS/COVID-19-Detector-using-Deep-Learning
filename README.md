@@ -8,7 +8,7 @@ In this model, I have used Chest X-ray Images as my dataset to detect COVID-19 i
 COVID-19 attacks epithelial cell that line our respiratory tract. So we can detect COVID-19 using the CXR's and determine the condition of the patient's lungs.The overall accuracy of this model is 92.055%
 
 # Technologies used: 
-  1.Keras
-  2.Tensorflow
-  3.Deep Learning
+Keras
+Tensorflow
+Deep Learning
 
